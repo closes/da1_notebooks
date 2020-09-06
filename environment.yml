@@ -1,0 +1,9 @@
+dependencies:
+  - python=3.8
+  - ipywidgets==7.5.1
+  - matplotlib==3.2.1
+  - matplotlib-base==3.2.1
+  - numpy==1.18.4
+  - numpydoc==1.1.0
+  - scipy==1.4.1
+  
